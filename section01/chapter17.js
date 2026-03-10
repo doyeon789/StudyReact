@@ -19,5 +19,5 @@ let arrC = [
 let itme1 = arrC[0];
 let item2 = arrC[1];
 
-arr[0] = "hello";
-console.log(arrC);
+arr[0] = "hello"; dn
+console.log(arrC); y6
